@@ -1,2 +1,2 @@
 # expense-tracker
-Daily expense tracker application
+Daily expense tracking application
